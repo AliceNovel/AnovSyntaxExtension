@@ -3,6 +3,9 @@
 	"name": "Anov Syntax",
 	"patterns": [
 		{
+            "include": "#comments"
+        },
+		{
 			"include": "#keywords"
 		},
 		{
@@ -10,6 +13,21 @@
 		}
 	],
 	"repository": {
+		"comments": {
+			"patterns": [
+				{
+					"comment": "1行コメント: //で開始",
+					"name": "comment.line",
+					"match": "//.*"
+				},
+				{
+					"comment": "複数行コメント: /*で開始、*/で終了",
+					"name": "comment.block",
+					"begin": "/*",
+					"end": "*/"
+				}
+			]			
+		},
 		"keywords": {
 			"patterns": [{
 				"name": "keyword.control.Anov Syntax",
