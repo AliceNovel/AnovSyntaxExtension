@@ -1,0 +1,25 @@
+{
+  "name": "anov-syntax-extension",
+  "displayName": "Anov Syntax Extension",
+  "description": "This VSCode extension support anov syntax for Alice Novel.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "anov-syntax",
+      "aliases": ["Anov Syntax", "Anov Syntax"],
+      "extensions": [".anov"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "Anov Syntax",
+      "scopeName": "source.anov",
+      "path": "./syntaxes/Anov Syntax.tmLanguage.json"
+    }]
+  }
+}
