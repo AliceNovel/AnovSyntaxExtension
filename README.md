@@ -1,5 +1,7 @@
 # anov-syntax-extension README
 
+https://learn.microsoft.com/en-us/visualstudio/extensibility/adding-an-lsp-extension
+
 This is the README for your extension "anov-syntax-extension". After writing up a brief description, we recommend including the following sections.
 
 ## Features
