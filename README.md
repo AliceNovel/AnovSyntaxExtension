@@ -1,6 +1,7 @@
 # anov-syntax-extension README
 
-https://learn.microsoft.com/en-us/visualstudio/extensibility/adding-an-lsp-extension
+- https://learn.microsoft.com/en-us/visualstudio/extensibility/adding-an-lsp-extension
+- https://martinbjorkstrom.com/posts/2018-11-29-creating-a-language-server
 
 This is the README for your extension "anov-syntax-extension". After writing up a brief description, we recommend including the following sections.
 
