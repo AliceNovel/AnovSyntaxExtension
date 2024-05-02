@@ -27,6 +27,7 @@
     "languages": [{
       "id": "anov",
       "aliases": [
+        "Anov Syntax",
         "anov-syntax",
         "anov"
       ],
