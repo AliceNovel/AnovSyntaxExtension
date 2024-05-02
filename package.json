@@ -2,6 +2,20 @@
   "name": "anov-syntax",
   "displayName": "Anov Syntax",
   "description": "Anov Syntax is the easy language for creating novel games.",
+  "publisher": "Alice Project",
+  "keywords": [
+    "Alice Project",
+    "Alice Novel",
+    "Alice Console",
+    "Alice CLI",
+    "Anov Syntax",
+    "Novel Games",
+    "Games"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alicenovel/anovsyntaxextension"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.88.0"
@@ -12,8 +26,13 @@
   "contributes": {
     "languages": [{
       "id": "anov",
-      "aliases": ["anov-syntax", "anov"],
-      "extensions": [".anov"],
+      "aliases": [
+        "anov-syntax",
+        "anov"
+      ],
+      "extensions": [
+        ".anov"
+      ],
       "configuration": "./language-configuration.json"
     }],
     "grammars": [{
