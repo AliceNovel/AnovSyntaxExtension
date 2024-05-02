@@ -1,6 +1,6 @@
-# anov-syntax-extension README
+# anov-syntax README
 
-This is the README for your extension "anov-syntax-extension". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "anov-syntax". After writing up a brief description, we recommend including the following sections.
 
 ## Features
 

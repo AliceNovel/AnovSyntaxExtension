@@ -1,6 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/martinring/tmlanguage/master/tmlanguage.json",
-	"name": "Anov Syntax",
+	"name": "anov-syntax",
 	"patterns": [
 		{
 			"include": "#keywords"
@@ -12,17 +12,17 @@
 	"repository": {
 		"keywords": {
 			"patterns": [{
-				"name": "keyword.control.Anov Syntax",
+				"name": "keyword.control.anov",
 				"match": "\\b(if|while|for|return)\\b"
 			}]
 		},
 		"strings": {
-			"name": "string.quoted.double.Anov Syntax",
+			"name": "string.quoted.double.anov",
 			"begin": "\"",
 			"end": "\"",
 			"patterns": [
 				{
-					"name": "constant.character.escape.Anov Syntax",
+					"name": "constant.character.escape.anov",
 					"match": "\\\\."
 				}
 			]
