@@ -1,7 +1,18 @@
-# anov-syntax README
+# Anov Syntax Language Server Extension
 
-This is the README for your extension "anov-syntax". After writing up a brief description, we recommend including the following sections.
+This is a [LSP](https://github.com/Microsoft/language-server-protocol)/[LSE](https://code.visualstudio.com/api/language-extensions/language-server-extension-guide) server for **Anov Syntax**.
 
+## What's new
+
+See our [changelog](./docs/CHANGELOG.md) for all of the updates.
+
+## License
+
+Copyright © Alice Project, and contributors.
+
+**Anov LSE** is provided as-is under the MIT license. For more information see [LICENSE](./LICENSE).
+
+<!--
 ## Features
 
 Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
@@ -63,3 +74,4 @@ You can author your README using Visual Studio Code. Here are some useful editor
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+-->
