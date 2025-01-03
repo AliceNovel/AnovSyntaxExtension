@@ -1,77 +1,33 @@
-# Anov Syntax Language Server Extension
+# Anov Syntax for Visual Studio Code
 
-This is a [LSP](https://github.com/Microsoft/language-server-protocol)/[LSE](https://code.visualstudio.com/api/language-extensions/language-server-extension-guide) server for **Anov Syntax**.
+The **anov-vscode** is a Visual Studio Code extension. Its provides language support for Anov Syntax. This extension make you can develop your games with the Alice System more faster, more easily.
 
 ## What's new
 
 See our [changelog](./docs/CHANGELOG.md) for all of the updates.
 
-## License
-
-Copyright © Alice Project, and contributors.
-
-**Anov LSE** is provided as-is under the MIT license. For more information see [LICENSE](./LICENSE).
-
 <!--
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+TBD
+-->
 
-For example if there is an image subfolder under your extension project workspace:
+## Contributing
 
-\!\[feature X\]\(images/feature-x.png\)
+### License
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+Copyright © Alice Project, and contributors.
 
-## Requirements
+**anov-vscode** is provided as-is under the MIT license. For more information see [LICENSE](./LICENSE).
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+<!--
+### Code of Conduct
 
-## Extension Settings
+TBD
+-->
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+<!--
+## Feedback
 
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
----
-
-## Working with Markdown
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+TBD
 -->
