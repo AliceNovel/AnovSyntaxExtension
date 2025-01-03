@@ -20,14 +20,11 @@ Copyright © Alice Project, and contributors.
 
 **anov-vscode** is provided as-is under the MIT license. For more information see [LICENSE](./LICENSE).
 
-Licensed under the [MIT license](./LICENSE).
-
 <!--
 ### Code of Conduct
 
 TBD
 -->
-
 
 <!--
 ## Feedback
