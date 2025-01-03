@@ -26,19 +26,19 @@
   "contributes": {
     "languages": [{
       "id": "anov",
-      "aliases": [
-        "anov-syntax",
-        "anov"
-      ],
-      "extensions": [
-        ".anov"
-      ],
+      "aliases": ["anov-syntax", "anov"],
+      "extensions": [".anov"],
       "configuration": "./language-configuration.json"
     }],
     "grammars": [{
       "language": "anov",
       "scopeName": "source.anov",
       "path": "./syntaxes/anov.tmLanguage.json"
+    }],
+    "snippets": [{
+        "language": "anov",
+        "scopeName":"source.anov",
+        "path": "./snippet/anov.snippet.json"
     }]
   }
 }

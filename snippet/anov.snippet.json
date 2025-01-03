@@ -1,0 +1,20 @@
+{
+  "conversation (- )": {
+    "prefix": "- ",
+    "body": [
+      "- ${1:Character Name}",
+      "[${2:Conversation}]",
+      ""
+    ],
+    "description": "Set character name and its conversation contents."
+  },
+  "feeling (/ )": {
+    "prefix": "/ ",
+    "body": [
+      "- ${1:Character Name} / ${2:State}",
+      "[${3:Conversation}]",
+      ""
+    ],
+    "description": "Set character name with them feeling and its conversation contents."
+  }
+}
